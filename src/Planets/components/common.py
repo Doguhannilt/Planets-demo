@@ -33,8 +33,10 @@ class class_prediction_cosine_similarity:
         self.ingestion_config = DataIngestionConfig()
 
     def prediction_cosine_similarity_calculation(self,number_of_prediction):
-
-        df = pd.read_csv("C:/Users/doguy/Desktop/Planets/artifacts/data.csv")
+        base_data_path = '../../../artifacts/'
+        
+        
+        df = pd.read_csv(base_data_path,"data.csv")
         y = df["pl_name"]
         # CosineSimilarityCalculator sınıfını oluşturun
         calculator = CosineSimilarityCalculator()
@@ -45,7 +47,7 @@ class class_prediction_cosine_similarity:
         # Verileri gruplara ayırın ve sonuçları alın
         result_df = calculator.group_similar_values(y, similarity_threshold)
 
-        path_to_file = "C:/Users/doguy/Desktop/Planets/artifacts/Cosine_similarity.csv"
+        path_to_file = base_data_path,"Cosine_similarity.csv"
         result_df.to_csv(path_to_file)
 
         result_dict_plus = dict(zip(result_df['Group'], result_df['Values']))
