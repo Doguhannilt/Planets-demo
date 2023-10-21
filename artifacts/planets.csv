@@ -1,0 +1,85 @@
+,Short_Name,Long_Name
+0,pl_name,Planet Name
+1,hostname,Host Name
+2,sy_snum,Number of Stars
+3,sy_pnum,Number of Planets
+4,discoverymethod,Discovery Method
+5,disc_year,Discovery Year
+6,disc_facility,Discovery Facility
+7,pl_controv_flag,Controversial Flag
+8,pl_orbper,Orbital Period [days]
+9,pl_orbpererr1,Orbital Period Upper Unc. [days]
+10,pl_orbpererr2,Orbital Period Lower Unc. [days]
+11,pl_orbperlim,Orbital Period Limit Flag
+12,pl_orbsmax,Orbit Semi-Major Axis [au]
+13,pl_orbsmaxerr1,Orbit Semi-Major Axis Upper Unc. [au]
+14,pl_orbsmaxerr2,Orbit Semi-Major Axis Lower Unc. [au]
+15,pl_orbsmaxlim,Orbit Semi-Major Axis Limit Flag
+16,pl_rade,Planet Radius [Earth Radius]
+17,pl_radeerr1,Planet Radius Upper Unc. [Earth Radius]
+18,pl_radeerr2,Planet Radius Lower Unc. [Earth Radius]
+19,pl_radelim,Planet Radius Limit Flag
+20,pl_radj,Planet Radius [Jupiter Radius]
+21,pl_radjerr1,Planet Radius Upper Unc. [Jupiter Radius]
+22,pl_radjerr2,Planet Radius Lower Unc. [Jupiter Radius]
+23,pl_radjlim,Planet Radius Limit Flag
+24,pl_bmasse,Planet Mass or Mass*sin(i) [Earth Mass]
+25,pl_bmasseerr1,Planet Mass or Mass*sin(i) [Earth Mass] Upper Unc.
+26,pl_bmasseerr2,Planet Mass or Mass*sin(i) [Earth Mass] Lower Unc.
+27,pl_bmasselim,Planet Mass or Mass*sin(i) [Earth Mass] Limit Flag
+28,pl_bmassj,Planet Mass or Mass*sin(i) [Jupiter Mass]
+29,pl_bmassjerr1,Planet Mass or Mass*sin(i) [Jupiter Mass] Upper Unc.
+30,pl_bmassjerr2,Planet Mass or Mass*sin(i) [Jupiter Mass] Lower Unc.
+31,pl_bmassjlim,Planet Mass or Mass*sin(i) [Jupiter Mass] Limit Flag
+32,pl_bmassprov,Planet Mass or Mass*sin(i) Provenance
+33,pl_orbeccen,Eccentricity
+34,pl_orbeccenerr1,Eccentricity Upper Unc.
+35,pl_orbeccenerr2,Eccentricity Lower Unc.
+36,pl_orbeccenlim,Eccentricity Limit Flag
+37,pl_insol,Insolation Flux [Earth Flux]
+38,pl_insolerr1,Insolation Flux Upper Unc. [Earth Flux]
+39,pl_insolerr2,Insolation Flux Lower Unc. [Earth Flux]
+40,pl_insollim,Insolation Flux Limit Flag
+41,pl_eqt,Equilibrium Temperature [K]
+42,pl_eqterr1,Equilibrium Temperature Upper Unc. [K]
+43,pl_eqterr2,Equilibrium Temperature Lower Unc. [K]
+44,pl_eqtlim,Equilibrium Temperature Limit Flag
+45,ttv_flag,Data show Transit Timing Variations
+46,st_spectype,Spectral Type
+47,st_teff,Stellar Effective Temperature [K]
+48,st_tefferr1,Stellar Effective Temperature Upper Unc. [K]
+49,st_tefferr2,Stellar Effective Temperature Lower Unc. [K]
+50,st_tefflim,Stellar Effective Temperature Limit Flag
+51,st_rad,Stellar Radius [Solar Radius]
+52,st_raderr1,Stellar Radius Upper Unc. [Solar Radius]
+53,st_raderr2,Stellar Radius Lower Unc. [Solar Radius]
+54,st_radlim,Stellar Radius Limit Flag
+55,st_mass,Stellar Mass [Solar mass]
+56,st_masserr1,Stellar Mass Upper Unc. [Solar mass]
+57,st_masserr2,Stellar Mass Lower Unc. [Solar mass]
+58,st_masslim,Stellar Mass Limit Flag
+59,st_met,Stellar Metallicity [dex]
+60,st_meterr1,Stellar Metallicity Upper Unc. [dex]
+61,st_meterr2,Stellar Metallicity Lower Unc. [dex]
+62,st_metlim,Stellar Metallicity Limit Flag
+63,st_metratio,Stellar Metallicity Ratio
+64,st_logg,Stellar Surface Gravity [log10(cm/s**2)]
+65,st_loggerr1,Stellar Surface Gravity Upper Unc. [log10(cm/s**2)]
+66,st_loggerr2,Stellar Surface Gravity Lower Unc. [log10(cm/s**2)]
+67,st_logglim,Stellar Surface Gravity Limit Flag
+68,rastr,RA [sexagesimal]
+69,ra,RA [deg]
+70,decstr,Dec [sexagesimal]
+71,dec,Dec [deg]
+72,sy_dist,Distance [pc]
+73,sy_disterr1,Distance [pc] Upper Unc
+74,sy_disterr2,Distance [pc] Lower Unc
+75,sy_vmag,V (Johnson) Magnitude
+76,sy_vmagerr1,V (Johnson) Magnitude Upper Unc
+77,sy_vmagerr2,V (Johnson) Magnitude Lower Unc
+78,sy_kmag,Ks (2MASS) Magnitude
+79,sy_kmagerr1,Ks (2MASS) Magnitude Upper Unc
+80,sy_kmagerr2,Ks (2MASS) Magnitude Lower Unc
+81,sy_gaiamag,Gaia Magnitude
+82,sy_gaiamagerr1,Gaia Magnitude Upper Unc
+83,sy_gaiamagerr2,Gaia Magnitude Lower Unc

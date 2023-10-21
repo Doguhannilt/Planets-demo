@@ -1,0 +1,27 @@
+This file is representing the features that are going to be deleted (in the next upgrade)
+
+Stellar Mass Lower Unc. [Solar mass]
+Gaia Magnitude Lower Unc
+Planet Radius [Jupiter Radius]
+Stellar Surface Gravity [log10(cm/s**2)]
+Insolation Flux Lower Unc. [Earth Flux]
+V (Johnson) Magnitude Lower Unc
+Orbital Period Lower Unc. [days]
+Planet Mass or Mass*sin(i) [Earth Mass] Lower Unc.
+Distance [pc] Upper Unc
+Planet Radius Lower Unc. [Jupiter Radius]
+Planet Radius Upper Unc. [Jupiter Radius]
+Ks (2MASS) Magnitude Lower Unc
+Planet Mass or Mass*sin(i) [Jupiter Mass] Limit Flag
+Gaia Magnitude
+Planet Mass or Mass*sin(i) [Jupiter Mass] Lower Unc.
+Equilibrium Temperature Limit Flag
+Planet Mass or Mass*sin(i) [Jupiter Mass] Upper Unc.
+Equilibrium Temperature Lower Unc. [K]
+Stellar Mass Upper Unc. [Solar mass]
+Distance [pc] Lower Unc
+Orbit Semi-Major Axis Lower Unc. [au]
+Planet Mass or Mass*sin(i) [Jupiter Mass]
+Ks (2MASS) Magnitude
+Stellar Metallicity Lower Unc. [dex]
+Planet Radius Limit Flag.1

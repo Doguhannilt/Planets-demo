@@ -1,0 +1,48 @@
+This file is representing the column names and additional possible features for the project
+
+# COLUMN pl_name:        Planet Name
+# COLUMN hostname:       Host Name
+# COLUMN pl_letter:      Planet Letter
+# COLUMN sy_snum:        Number of Stars
+# COLUMN sy_pnum:        Number of Planets
+# COLUMN sy_mnum:        Number of Moons
+# COLUMN discoverymethod: Discovery Method
+# COLUMN disc_locale:    Discovery Locale
+# COLUMN disc_facility:  Discovery Facility
+# COLUMN disc_telescope: Discovery Telescope
+# COLUMN disc_instrument: Discovery Instrument
+# COLUMN pl_orbper:      Orbital Period [days]
+# COLUMN pl_orbpererr1:  Orbital Period Upper Unc. [days]
+# COLUMN pl_orbpererr2:  Orbital Period Lower Unc. [days]
+# COLUMN pl_orbperlim:   Orbital Period Limit Flag
+# COLUMN pl_orbeccen:    Eccentricity
+# COLUMN pl_orbeccenerr1: Eccentricity Upper Unc.
+# COLUMN pl_orbeccenerr2: Eccentricity Lower Unc.
+# COLUMN pl_orbeccenlim: Eccentricity Limit Flag
+# COLUMN st_spectype:    Spectral Type
+# COLUMN sy_dist:        Distance [pc]
+# COLUMN sy_disterr1:    Distance [pc] Upper Unc
+# COLUMN sy_disterr2:    Distance [pc] Lower Unc
+# COLUMN sy_plx:         Parallax [mas]
+# COLUMN sy_plxerr1:     Parallax [mas] Upper Unc
+# COLUMN sy_plxerr2:     Parallax [mas] Lower Unc
+# COLUMN sy_kepmag:      Kepler Magnitude
+# COLUMN sy_kepmagerr1:  Kepler Magnitude Upper Unc
+# COLUMN sy_kepmagerr2:  Kepler Magnitude Lower Unc
+
+
+liste = ["pl_orbper",   
+"pl_orbpererr1",    
+"pl_orbpererr2",       
+"pl_orbperlim",        
+"pl_orbeccen",         
+"pl_orbeccenerr1",  
+"pl_orbeccenerr2",    
+"pl_orbeccenlim",      
+"st_spectype",        
+"sy_plx",              
+"sy_plxerr1",          
+"sy_plxerr2",          
+"sy_kepmag",          
+"sy_kepmagerr1",      
+"sy_kepmagerr2"] 
