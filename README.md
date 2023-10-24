@@ -19,6 +19,14 @@ In the coming phases, precision will be exercised in refining the model, and adj
 <p><strong>Sliders: </strong>Sliders are the adjustable features</p>
 <p><strong>Spotify Playlist: </strong>Have you ever pondered the auditory essence of a planet? If so, then welcome to this playlist!</p>
 
+<h1>Demo Adjustable Parameters Explanation</h1>
+
+<p>In our demo project, we made a clear documentation to understand the parameters of the project more properly</p>
+
+<a href="https://drive.google.com/drive/folders/1EFylLOMbCPvLoc3x_g6RIbe3AMs3isUV">Google Drive Link</a><br>
+
+<p><strong>Thank you</strong> to my friend for preparing this unique documentation for the project! Here is the <a href ="https://github.com/Alivan-1502">Github</a> of my friend!</p>
+
 <h1>Models and Their Explanations</h1>
 <lu>
 <li>As a basic demo model, we've been using a Random Forest Classifier and at least 1000 rows and 9 columns which are called <strong>demo model.joblib</strong>. This model is just only to display the project in Streamlit -you may see that in above- so that's why we ignored get valuable accuracy in the model.</li>
